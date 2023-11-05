@@ -1,0 +1,12 @@
+https://app-privacy-policy-generator.firebaseapp.com/
+
+App Name:Tactical Board
+Contact Information:akiencontact@gmail.com
+Personally Identifiable Information:
+App Type:Free
+Mobile OS:Android & iOS
+Policy Effective Date:2023/10/02
+OwnerType:Individual
+Developer Name:AKIEN
+
+Include links to Third Party Services:Google Play Services
