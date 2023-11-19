@@ -1,4 +1,10 @@
 *.jks
-.dart_tool/
-.vscode/
-.tactical_board/build/
+tactical_board/.dart_tool/
+tactical_board/.vscode/
+tactical_board/build/
+tactical_board/windows/
+tactical_board/package_info_plus_example/
+tactical_board/linux/
+tactical_board/macos/
+tactical_board/.flutter-plugins
+tactical_board/.flutter-plugins-dependencies
